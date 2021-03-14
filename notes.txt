@@ -1,0 +1,11 @@
+Projeto----------------------------------------------------------------------------------------------------------------------------------
+
+canvas: Elemento que trabalha a parte gráfica do jogo
+getContext: Renderiza o desenho do canvas, tratando como um plano 
+fillStyle: cor do canvas
+filRect: desenho o retângulo (x, y, w, h)
+defer: Faz o js ser carregado no final
+Math.floor: Retira ponto flutuante do número
+Math.random: 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
